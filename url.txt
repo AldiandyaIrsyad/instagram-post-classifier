@@ -1,0 +1,2 @@
+DEPLOYMENT: https://aldiandya-p2m2.herokuapp.com/
+DATASET: https://www.kaggle.com/datasets/aldiandyainf/which-justin-posted-that?rvi=1
